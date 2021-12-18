@@ -13,8 +13,6 @@ export default function Home() {
       <main>
         <Header title="NURUL SYAFIQA" />
         <p className="description">
-          What you looking this my page.
-     <img src="/logosyafiqa.png" alt="NURULSYAFIQA">
         </p>
       </main>
 
