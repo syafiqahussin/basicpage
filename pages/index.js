@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
+      <img src="/logosyafiqa.png" alt="NURULSYAFIQA" style="width:128px;height:128px;">
         <Header title="NURUL SYAFIQA" />
         <p className="description">
           What you looking this my page.
